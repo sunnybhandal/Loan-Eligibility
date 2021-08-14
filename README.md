@@ -4,7 +4,7 @@
 The purpose of this project was to get comfortable with pipelines and deploying our models.
 
 ### Topics
-This mini project is dedicated to following topics:
+This project is dedicated to the following topics:
 - Data Wrangling (manually and then using pipelines)
 - Data Visualization (Confusion matrices, pandas pivot tables, feature importance graphs)
 - Data Preparation and Feature Engineering (logarithmic and standard scaler transformation)
